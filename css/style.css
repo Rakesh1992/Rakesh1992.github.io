@@ -804,6 +804,11 @@ p
   {
     margin-bottom: 40px;
   }
+
+  .artist-rounded-img
+  {
+    width: 30%;
+  }
 }
 
 @media screen and (max-width:360px)
