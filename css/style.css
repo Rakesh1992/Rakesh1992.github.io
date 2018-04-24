@@ -651,6 +651,23 @@ p
     margin: 0 auto;
   }
 
+  .top-songs-artist-column h1
+  {
+    margin-top: 40px;
+    font-size: 28px;
+  }
+
+  .top-songs-artist-column h3
+  {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+
+  .hits-of h3
+  {
+    margin-top: 80px;
+  }
+
 }
 
 @media screen and (max-width:480px)
